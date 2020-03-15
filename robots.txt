@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyienooqu.yorkjitsu.org/sitemap.xml
